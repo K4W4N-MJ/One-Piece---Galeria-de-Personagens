@@ -23,8 +23,8 @@ Este é um projeto de galeria interativa inspirado no anime One Piece, onde é p
 
 # 🛠️ Tecnologias Utilizadas
 
-.HTML5
+. HTML5
 
-.CSS3
+. CSS3
 
-.JavaScript (Vanilla)
+. JavaScript (Vanilla)
