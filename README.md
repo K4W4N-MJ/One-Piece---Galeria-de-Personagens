@@ -22,8 +22,9 @@ Este é um projeto de galeria interativa inspirado no anime One Piece, onde é p
 . Alternância entre personagens usando JavaScript puro. <br>
 
 # 🛠️ Tecnologias Utilizadas
-###HTML5
 
-###CSS3
+.HTML5
 
-###JavaScript (Vanilla)
+.CSS3
+
+.JavaScript (Vanilla)
